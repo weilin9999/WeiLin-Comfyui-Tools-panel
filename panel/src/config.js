@@ -1,0 +1,1 @@
+export const base_url = 'http://localhost:9898'; // 根据实际情况修改
